@@ -1,2 +1,3 @@
 # DesignPatterns
-Liste of design patterns
+List of design patterns by Stephan Rabeniaina
+
